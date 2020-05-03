@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="2D Laser Beam"
+run/main_scene="res://LaserBeam.tscn"
 config/icon="res://icon.png"
 
 [display]
